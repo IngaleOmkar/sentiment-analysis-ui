@@ -15,7 +15,7 @@
     "serve": "^14.2.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://IngaleOmkar.github.io/sentiment-analysis",
+  "homepage": "https://IngaleOmkar.github.io/sentiment-analysis-ui",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
